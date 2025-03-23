@@ -453,7 +453,7 @@ object-fit: cover;
         .music-controls button {
             background: none;
             border: none;
-            font-size: 18pt;
+            font-size: 16pt;
             cursor: pointer;
         }
 		
